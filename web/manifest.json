@@ -1,6 +1,6 @@
 {
-    "name": "webtoapp",
-    "short_name": "webtoapp",
+    "name": "HTH Coin Wallet",
+    "short_name": "HTH Coin Wallet",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
