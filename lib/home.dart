@@ -12,7 +12,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return WebView(
-        initialUrl: "https://www.trendyjeo.com/",
+        initialUrl: "https://wallet.hth.world",
         javascriptMode: JavascriptMode.unrestricted,
         
       );
